@@ -1,3 +1,3 @@
-# wWEB2 FILE
+# WEB2 FILE
 
 This is our local readme file
