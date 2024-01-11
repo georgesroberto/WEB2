@@ -1,3 +1,10 @@
-# WEB2 FILE
+# GIT MERGING AND GIT BRANCHING
 
-This is our local readme file
+Branch<br>
+
+1. Homepage
+2. Purchase
+3. Items
+4. Items-detailed
+
+## GIT BRANCHING
